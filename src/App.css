@@ -10,4 +10,9 @@
     margin: 10px;
 }
 
+.b {
+    background-color: bisque;
+}
+
+
 /* css for the component which are loaded in App, can also be written here */
