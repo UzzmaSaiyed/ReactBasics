@@ -1,7 +1,9 @@
-.prod {
+/* .prod {
     background-color: bisque;
     height: wrap;
     width: 200px;
     padding: 10px;
     margin: 10px;
-}
+} */
+
+/* No need to create css for each and every component separately, only when needed */

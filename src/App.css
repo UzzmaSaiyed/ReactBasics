@@ -1,3 +1,13 @@
 .a {
     display: flex;
 }
+
+.prod {
+    background-color: bisque;
+    height: wrap;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+}
+
+/* css for the component which are loaded in App, can also be written here */
