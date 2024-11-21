@@ -14,5 +14,12 @@
     background-color: bisque;
 }
 
+.user {
+    background-color: skyblue;
+    height: fit-content;
+    width: fit-content;
+    padding: 10px;
+    margin: 10px;
+}
 
 /* css for the component which are loaded in App, can also be written here */

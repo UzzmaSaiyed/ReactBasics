@@ -6,6 +6,7 @@ function Product(props) {
     // Destructuring props to make the code more readable and maintainable
     let { name, title, desc, detailed, price, category } = props
 
+
     return (
         <>
             <div className="prod">
@@ -21,3 +22,5 @@ function Product(props) {
     )
 }
 export default Product
+
+

@@ -1,5 +1,6 @@
 import './App.css'
 import Product from './Product'
+import User from './Users'
 
 function App(props) {
   return (
@@ -12,6 +13,8 @@ function App(props) {
         <Product name="Book 3" title="The Vampire Diaries" desc="2008 Edition" price={3000} />
         <Product name="Book 4" title="Tom Sawyer" desc="2003 Edition" category={["Fiction", "Fantasy", "Adventure"]} />
       </div>
+
+      <User email="a@gmail.com" />
 
     </>
   )
