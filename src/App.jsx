@@ -16,7 +16,6 @@ function App(props) {
       </div>
 
       <User email="a@gmail.com" />
-      <Category />
 
     </>
   )
