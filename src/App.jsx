@@ -13,6 +13,7 @@ function App(props) {
         <Product name="Book 2" title="Lord of the rings" desc="2010 Edition" detailed={{ theme: "Fantasy", Location: "Middle Earth" }} />
         <Product name="Book 3" title="The Vampire Diaries" desc="2008 Edition" price={3000} />
         <Product name="Book 4" title="Tom Sawyer" desc="2003 Edition" category={["Fiction", "Fantasy", "Adventure"]} />
+        <Product name="Book 5" title="Dr. Jekyll" desc="2007 Edition" price={9000} />
       </div>
 
       <User email="a@gmail.com" />
