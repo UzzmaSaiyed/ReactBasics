@@ -1,5 +1,4 @@
 import './App.css'
-import Category from './Category'
 import Product from './Product'
 import User from './Users'
 
